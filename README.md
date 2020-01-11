@@ -1,3 +1,12 @@
+### IT Security Telegram Channel
+
+1. [Telegram Link ](https://t.me/SecOpsChannel) - Lot other from the world of Security.
+
+### IT Security Mobile App to keep you updated..
+
+2. [AttackIO App ](https://attackio.app/) - The world of information security is now in your palm !!.
+
+
 # Awesome-Cellular-Hacking 
 Please note multiple researchers published and compiled this work. This is a list of their research in the 3G/4G/5G Cellular security space. This information is intended to consolidate the community's knowledge. Thank you, I plan on frequently updating this "Awesome Cellular Hacking" curated list with the most up to date exploits, blogs, research, and papers.
 
